@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1059474091135",
+    "firebase_url": "https://techteamproject-14b8d.firebaseio.com",
+    "project_id": "techteamproject-14b8d",
+    "storage_bucket": "techteamproject-14b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059474091135:android:ae1523777a2acac7",
+        "android_client_info": {
+          "package_name": "net.siesgst.iottechteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059474091135-f8mbel472k8a8luv9o3k2adagv8n5tkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2NxepfK_XVOjJ4x6tNR9MPjf9a2fgwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059474091135:android:8f9666f74cd5fd0d",
+        "android_client_info": {
+          "package_name": "net.siesgst.techteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059474091135-018gq40mjkrd5h7ddqk320s1h1vl0hnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.siesgst.techteam",
+            "certificate_hash": "1e20b94bf9662cd22f50bd8e5381fb74f18ab022"
+          }
+        },
+        {
+          "client_id": "1059474091135-f8mbel472k8a8luv9o3k2adagv8n5tkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2NxepfK_XVOjJ4x6tNR9MPjf9a2fgwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059474091135-f8mbel472k8a8luv9o3k2adagv8n5tkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059474091135:android:f6efd4cadee348bb",
+        "android_client_info": {
+          "package_name": "net.siesgst.iottech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059474091135-f8mbel472k8a8luv9o3k2adagv8n5tkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2NxepfK_XVOjJ4x6tNR9MPjf9a2fgwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
